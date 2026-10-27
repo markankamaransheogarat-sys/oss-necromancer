@@ -1,0 +1,1680 @@
+[
+  {
+    "repo": "dthpham/sminterpolate",
+    "url": "https://github.com/dthpham/sminterpolate",
+    "stars": 1384,
+    "forks": 92,
+    "license": "MIT",
+    "pushed": "2020-06-18",
+    "archived": true,
+    "lang": "Python",
+    "desc": "Make motion interpolated and fluid slow motion videos from the command line.",
+    "topics": [
+      "motion-interpolation",
+      "slow-motion"
+    ],
+    "domains": [
+      "physics",
+      "math"
+    ],
+    "base": 48.8,
+    "score": 60.8,
+    "open_issues": 81,
+    "full_name": "dthpham/sminterpolate",
+    "lang_mix": {
+      "Python": 0.76,
+      "C++": 0.18,
+      "C": 0.06
+    },
+    "core_lang_share": 1.0,
+    "files": 34,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": true,
+    "src_files": 22,
+    "demand_issues": 2,
+    "demand_titles": [
+      "Cannot Install on Debian",
+      "Cannot compile butterflow"
+    ],
+    "demand_unanswered": 0,
+    "crates_similar": []
+  },
+  {
+    "repo": "jaybaird/python-bloomfilter",
+    "url": "https://github.com/jaybaird/python-bloomfilter",
+    "stars": 1619,
+    "forks": 319,
+    "license": "MIT",
+    "pushed": "2021-07-01",
+    "archived": true,
+    "lang": "Python",
+    "desc": "Scalable Bloom Filter implemented in Python",
+    "topics": [],
+    "domains": [
+      "dsp",
+      "math"
+    ],
+    "base": 52.9,
+    "score": 56.9,
+    "open_issues": 25,
+    "full_name": "jaybaird/python-bloomfilter",
+    "lang_mix": {
+      "Python": 1.0
+    },
+    "core_lang_share": 1.0,
+    "files": 14,
+    "bad_deps": [],
+    "has_tests": true,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 6,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0,
+    "crates_similar": []
+  },
+  {
+    "repo": "axiak/pybloomfiltermmap",
+    "url": "https://github.com/axiak/pybloomfiltermmap",
+    "stars": 745,
+    "forks": 134,
+    "license": "MIT",
+    "pushed": "2019-11-04",
+    "archived": false,
+    "lang": "C",
+    "desc": "Fast Python Bloom Filter using Mmap",
+    "topics": [],
+    "domains": [
+      "dsp",
+      "math"
+    ],
+    "base": 42.6,
+    "score": 54.6,
+    "open_issues": 35,
+    "full_name": "axiak/pybloomfiltermmap",
+    "lang_mix": {
+      "C": 0.6,
+      "Python": 0.4,
+      "Makefile": 0.01
+    },
+    "core_lang_share": 0.99,
+    "files": 47,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 22,
+    "demand_issues": 2,
+    "demand_titles": [
+      "Bloomfilter file compatibility between 32 and 64 bit architectures",
+      "Still experiencing issue re-opening large file sizes (Issue #21)"
+    ],
+    "demand_unanswered": 0,
+    "crates_similar": []
+  },
+  {
+    "repo": "bitly/dablooms",
+    "url": "https://github.com/bitly/dablooms",
+    "stars": 962,
+    "forks": 115,
+    "license": "MIT",
+    "pushed": "2019-10-26",
+    "archived": true,
+    "lang": "C",
+    "desc": "scaling, counting, bloom filter library",
+    "topics": [],
+    "domains": [
+      "dsp",
+      "math"
+    ],
+    "base": 48.6,
+    "score": 48.6,
+    "open_issues": 9,
+    "full_name": "bitly/dablooms",
+    "lang_mix": {
+      "C": 0.76,
+      "Makefile": 0.1,
+      "Python": 0.09,
+      "Go": 0.05
+    },
+    "core_lang_share": 0.85,
+    "files": 17,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 9,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0,
+    "crates_similar": []
+  },
+  {
+    "repo": "psycha0s/airwave",
+    "url": "https://github.com/psycha0s/airwave",
+    "stars": 584,
+    "forks": 36,
+    "license": "MIT",
+    "pushed": "2020-08-18",
+    "archived": false,
+    "lang": "C++",
+    "desc": "Airwave is a WINE-based VST bridge, that allows for the use of Windows 32- and 64-bit VST 2.4 audio plugins with Linux VST hosts",
+    "topics": [
+      "linux",
+      "vst",
+      "wine"
+    ],
+    "domains": [
+      "dsp"
+    ],
+    "base": 22.7,
+    "score": 46.7,
+    "open_issues": 63,
+    "full_name": "psycha0s/airwave",
+    "lang_mix": {
+      "C++": 0.98,
+      "CMake": 0.02
+    },
+    "core_lang_share": 0.98,
+    "files": 113,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 72,
+    "demand_issues": 13,
+    "demand_titles": [
+      "not able to bridge 64bit plugins on a 64bit wine bottle",
+      "Load a plugin in ARDOUR, then the DAW crashes",
+      "Burnley 73 Plugin stopped working with version 1.3"
+    ],
+    "demand_unanswered": 3,
+    "crates_similar": [
+      [
+        "aruba_ripple",
+        2817
+      ]
+    ]
+  },
+  {
+    "repo": "TheComet/ik",
+    "url": "https://github.com/TheComet/ik",
+    "stars": 549,
+    "forks": 75,
+    "license": "MIT",
+    "pushed": "2020-12-01",
+    "archived": false,
+    "lang": "C",
+    "desc": "Minimal Inverse Kinematics library ",
+    "topics": [
+      "3d",
+      "algorithm-library",
+      "animation",
+      "calculations",
+      "end-effector",
+      "ik",
+      "inverse-kinematics",
+      "inverse-kinematics-library",
+      "python-bindings",
+      "rotation",
+      "rotations",
+      "solver",
+      "wiki-page"
+    ],
+    "domains": [
+      "physics",
+      "geometry"
+    ],
+    "base": 41.3,
+    "score": 45.3,
+    "open_issues": 16,
+    "full_name": "TheComet/ik",
+    "lang_mix": {
+      "C": 0.74,
+      "C++": 0.12,
+      "Python": 0.06,
+      "CMake": 0.06
+    },
+    "core_lang_share": 0.93,
+    "files": 287,
+    "bad_deps": [],
+    "has_tests": true,
+    "has_build": true,
+    "has_license_file": true,
+    "src_files": 204,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0,
+    "crates_similar": [
+      [
+        "ik",
+        30
+      ],
+      [
+        "ikigai-layers",
+        1230
+      ],
+      [
+        "ikigai-browse",
+        2839
+      ],
+      [
+        "ikigai-nl",
+        391
+      ],
+      [
+        "ikigai-web",
+        1337
+      ]
+    ]
+  },
+  {
+    "repo": "google/pygtrie",
+    "url": "https://github.com/google/pygtrie",
+    "stars": 820,
+    "forks": 131,
+    "license": "Apache-2.0",
+    "pushed": "2021-04-10",
+    "archived": true,
+    "lang": "Python",
+    "desc": "Python library implementing a trie data structure.",
+    "topics": [],
+    "domains": [
+      "math"
+    ],
+    "base": 30.6,
+    "score": 42.6,
+    "open_issues": 15,
+    "full_name": "google/pygtrie",
+    "lang_mix": {
+      "Python": 1.0
+    },
+    "core_lang_share": 1.0,
+    "files": 14,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 6,
+    "demand_issues": 2,
+    "demand_titles": [
+      "Apache v2 license (only) is incompatible with GPLv2",
+      "Install fail in windows"
+    ],
+    "demand_unanswered": 0,
+    "crates_similar": []
+  },
+  {
+    "repo": "revolunet/sublimetext-markdown-preview",
+    "url": "https://github.com/revolunet/sublimetext-markdown-preview",
+    "stars": 2289,
+    "forks": 361,
+    "license": "MIT",
+    "pushed": "2018-04-22",
+    "archived": true,
+    "lang": "Python",
+    "desc": "markdown preview and build plugin for sublime text 2/3",
+    "topics": [
+      "markdown",
+      "plugin",
+      "python",
+      "sublime-text"
+    ],
+    "domains": [
+      "parser"
+    ],
+    "base": 20.6,
+    "score": 42.6,
+    "open_issues": 1,
+    "full_name": "revolunet/sublimetext-markdown-preview",
+    "lang_mix": {
+      "Python": 0.65,
+      "CSS": 0.32,
+      "JavaScript": 0.03
+    },
+    "core_lang_share": 0.65,
+    "files": 45,
+    "bad_deps": [],
+    "has_tests": true,
+    "has_build": false,
+    "has_license_file": true,
+    "src_files": 6,
+    "demand_issues": 3,
+    "demand_titles": [
+      "Can we drop ST2 support?",
+      "Port to Sublime Text 3",
+      "browser preview failure when can't find livereload port"
+    ],
+    "demand_unanswered": 0,
+    "crates_similar": []
+  },
+  {
+    "repo": "roxma/nvim-completion-manager",
+    "url": "https://github.com/roxma/nvim-completion-manager",
+    "stars": 906,
+    "forks": 46,
+    "license": "MIT",
+    "pushed": "2018-07-27",
+    "archived": true,
+    "lang": "Python",
+    "desc": ":warning: PLEASE USE https://github.com/ncm2/ncm2 INSTEAD",
+    "topics": [
+      "auto-complete",
+      "completion",
+      "golang",
+      "javascript",
+      "markdown",
+      "neovim",
+      "nvim",
+      "python",
+      "vim8"
+    ],
+    "domains": [
+      "parser"
+    ],
+    "base": 29.3,
+    "score": 41.3,
+    "open_issues": 32,
+    "full_name": "roxma/nvim-completion-manager",
+    "lang_mix": {
+      "Python": 0.77,
+      "Vim Script": 0.23
+    },
+    "core_lang_share": 0.77,
+    "files": 29,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 18,
+    "demand_issues": 2,
+    "demand_titles": [
+      "Rust ultisnips argument expansion not working with LanguageClient-neovim",
+      "Setting g:cm_complete_start_delay results in E118"
+    ],
+    "demand_unanswered": 0,
+    "crates_similar": []
+  },
+  {
+    "repo": "tanakh/cmdline",
+    "url": "https://github.com/tanakh/cmdline",
+    "stars": 1426,
+    "forks": 383,
+    "license": "BSD-3-Clause",
+    "pushed": "2020-12-13",
+    "archived": false,
+    "lang": "C",
+    "desc": "A Command Line Parser",
+    "topics": [],
+    "domains": [
+      "parser"
+    ],
+    "base": 29.7,
+    "score": 38.7,
+    "open_issues": 21,
+    "full_name": "tanakh/cmdline",
+    "lang_mix": {
+      "C": 0.81,
+      "C++": 0.19
+    },
+    "core_lang_share": 1.0,
+    "files": 5,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": false,
+    "has_license_file": true,
+    "src_files": 3,
+    "demand_issues": 1,
+    "demand_titles": [
+      "Support for long description"
+    ],
+    "demand_unanswered": 1,
+    "crates_similar": [
+      [
+        "linux-kernel-cmdline",
+        66069
+      ],
+      [
+        "cluproccmdline",
+        9423
+      ],
+      [
+        "linux-cmdline",
+        4180
+      ],
+      [
+        "wyrcan",
+        5344
+      ],
+      [
+        "tracexec-core",
+        1058
+      ]
+    ]
+  },
+  {
+    "repo": "danijar/handout",
+    "url": "https://github.com/danijar/handout",
+    "stars": 2036,
+    "forks": 105,
+    "license": "Apache-2.0",
+    "pushed": "2021-08-28",
+    "archived": false,
+    "lang": "Python",
+    "desc": "Turn Python scripts into handouts with Markdown and figures",
+    "topics": [
+      "data-science",
+      "notebook",
+      "productivity",
+      "prototyping",
+      "python",
+      "research"
+    ],
+    "domains": [
+      "parser"
+    ],
+    "base": 25.9,
+    "score": 35.9,
+    "open_issues": 12,
+    "full_name": "danijar/handout",
+    "lang_mix": {
+      "Python": 0.78,
+      "CSS": 0.2,
+      "JavaScript": 0.02
+    },
+    "core_lang_share": 0.78,
+    "files": 17,
+    "bad_deps": [],
+    "has_tests": true,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 8,
+    "demand_issues": 1,
+    "demand_titles": [
+      "steps for porting to Julia "
+    ],
+    "demand_unanswered": 0,
+    "crates_similar": [
+      [
+        "aperion-shield",
+        259
+      ],
+      [
+        "woven-client",
+        49
+      ],
+      [
+        "rpptx",
+        645
+      ],
+      [
+        "md2any",
+        298
+      ],
+      [
+        "dais",
+        104
+      ]
+    ]
+  },
+  {
+    "repo": "shamadee/web-dsp",
+    "url": "https://github.com/shamadee/web-dsp",
+    "stars": 1485,
+    "forks": 112,
+    "license": "MIT",
+    "pushed": "2017-06-05",
+    "archived": false,
+    "lang": "C++",
+    "desc": "A client-side signal processing library utilizing the power of WebAssembly (.wasm)",
+    "topics": [
+      "dsp",
+      "wasm",
+      "webassembly"
+    ],
+    "domains": [
+      "dsp"
+    ],
+    "base": 13.3,
+    "score": 32.3,
+    "open_issues": 7,
+    "full_name": "shamadee/web-dsp",
+    "lang_mix": {
+      "C++": 0.95,
+      "JavaScript": 0.05,
+      "Shell": 0.0,
+      "Batchfile": 0.0
+    },
+    "core_lang_share": 0.95,
+    "files": 18,
+    "bad_deps": [],
+    "has_tests": true,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 3,
+    "demand_issues": 2,
+    "demand_titles": [
+      "webassembly is slower than javascript",
+      "what does glue code do?"
+    ],
+    "demand_unanswered": 1,
+    "crates_similar": []
+  },
+  {
+    "repo": "leegao/readme2tex",
+    "url": "https://github.com/leegao/readme2tex",
+    "stars": 908,
+    "forks": 189,
+    "license": "MIT",
+    "pushed": "2021-08-21",
+    "archived": true,
+    "lang": "Python",
+    "desc": "Renders TeXy Math for Github Readme - No longer needed with official MathTex support on GH",
+    "topics": [
+      "equation",
+      "formula",
+      "github",
+      "latex",
+      "markdown"
+    ],
+    "domains": [
+      "parser"
+    ],
+    "base": 31.7,
+    "score": 31.7,
+    "open_issues": 32,
+    "full_name": "leegao/readme2tex",
+    "lang_mix": {
+      "Python": 1.0
+    },
+    "core_lang_share": 1.0,
+    "files": 40,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 4,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0,
+    "crates_similar": []
+  },
+  {
+    "repo": "hjiang/jsonxx",
+    "url": "https://github.com/hjiang/jsonxx",
+    "stars": 545,
+    "forks": 173,
+    "license": "MIT",
+    "pushed": "2021-02-21",
+    "archived": true,
+    "lang": "C++",
+    "desc": "A JSON parser in C++",
+    "topics": [],
+    "domains": [
+      "parser"
+    ],
+    "base": 30.9,
+    "score": 30.9,
+    "open_issues": 15,
+    "full_name": "hjiang/jsonxx",
+    "lang_mix": {
+      "C++": 1.0,
+      "Makefile": 0.0
+    },
+    "core_lang_share": 1.0,
+    "files": 9,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 3,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0,
+    "crates_similar": [
+      [
+        "verovio-sys",
+        500
+      ],
+      [
+        "verovio-data",
+        489
+      ],
+      [
+        "verovio",
+        315
+      ]
+    ]
+  },
+  {
+    "repo": "hfiref0x/TDL",
+    "url": "https://github.com/hfiref0x/TDL",
+    "stars": 1229,
+    "forks": 335,
+    "license": "BSD-2-Clause",
+    "pushed": "2019-08-01",
+    "archived": true,
+    "lang": "C",
+    "desc": "Driver loader for bypassing Windows x64 Driver Signature Enforcement",
+    "topics": [
+      "abandonware",
+      "c",
+      "driver-loader",
+      "dse",
+      "loader",
+      "tdl"
+    ],
+    "domains": [
+      "crypto"
+    ],
+    "base": 30.6,
+    "score": 30.6,
+    "open_issues": 0,
+    "full_name": "hfiref0x/TDL",
+    "lang_mix": {
+      "C": 0.99,
+      "C++": 0.01,
+      "Objective-C": 0.0
+    },
+    "core_lang_share": 1.0,
+    "files": 50,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 30,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0,
+    "crates_similar": [
+      [
+        "thediscordlist-serenity",
+        16
+      ],
+      [
+        "alloc-stdlib",
+        270921895
+      ],
+      [
+        "alloc-no-stdlib",
+        269290232
+      ],
+      [
+        "slog-stdlog",
+        23326140
+      ],
+      [
+        "jrsonnet-stdlib",
+        1259927
+      ]
+    ]
+  },
+  {
+    "repo": "byt3bl33d3r/pth-toolkit",
+    "url": "https://github.com/byt3bl33d3r/pth-toolkit",
+    "stars": 615,
+    "forks": 134,
+    "license": "BSD-2-Clause",
+    "pushed": "2015-02-06",
+    "archived": true,
+    "lang": "Python",
+    "desc": "Modified version of the passing-the-hash tool collection made to work straight out of the box",
+    "topics": [],
+    "domains": [
+      "crypto"
+    ],
+    "base": 20.4,
+    "score": 30.4,
+    "open_issues": 4,
+    "full_name": "byt3bl33d3r/pth-toolkit",
+    "lang_mix": {
+      "Python": 1.0,
+      "Perl": 0.0,
+      "Shell": 0.0
+    },
+    "core_lang_share": 1.0,
+    "files": 652,
+    "bad_deps": [],
+    "has_tests": true,
+    "has_build": false,
+    "has_license_file": true,
+    "src_files": 177,
+    "demand_issues": 1,
+    "demand_titles": [
+      "{suggestion} patch more of the PTH tools "
+    ],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "Auburn/FastNoiseSIMD",
+    "url": "https://github.com/Auburn/FastNoiseSIMD",
+    "stars": 632,
+    "forks": 90,
+    "license": "MIT",
+    "pushed": "2021-03-20",
+    "archived": true,
+    "lang": "C++",
+    "desc": "C++ SIMD Noise Library",
+    "topics": [
+      "avx2",
+      "cellular",
+      "fastnoise",
+      "fastnoise-simd",
+      "fractal",
+      "neon",
+      "noise",
+      "noise-3d",
+      "noise-library",
+      "perlin",
+      "perlin-noise",
+      "simd",
+      "simplex",
+      "simplex-noise",
+      "sse",
+      "white-noise"
+    ],
+    "domains": [
+      "graphics"
+    ],
+    "base": 29.7,
+    "score": 29.7,
+    "open_issues": 10,
+    "full_name": "Auburn/FastNoiseSIMD",
+    "lang_mix": {
+      "C++": 0.7,
+      "C": 0.3
+    },
+    "core_lang_share": 1.0,
+    "files": 14,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 11,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "mplewis/csvtomd",
+    "url": "https://github.com/mplewis/csvtomd",
+    "stars": 670,
+    "forks": 88,
+    "license": "MIT",
+    "pushed": "2020-04-27",
+    "archived": true,
+    "lang": "Python",
+    "desc": "📝📊 Convert your CSV files into Markdown tables.",
+    "topics": [
+      "csv-files",
+      "markdown",
+      "python"
+    ],
+    "domains": [
+      "parser"
+    ],
+    "base": 29.7,
+    "score": 29.7,
+    "open_issues": 5,
+    "full_name": "mplewis/csvtomd",
+    "lang_mix": {
+      "Python": 0.93,
+      "Shell": 0.07
+    },
+    "core_lang_share": 0.93,
+    "files": 18,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 6,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "songrun/SeamAwareDecimater",
+    "url": "https://github.com/songrun/SeamAwareDecimater",
+    "stars": 539,
+    "forks": 64,
+    "license": "MIT",
+    "pushed": "2020-03-19",
+    "archived": false,
+    "lang": "C++",
+    "desc": "Mesh simplification with UV's boundary preserved",
+    "topics": [
+      "mesh-simplification",
+      "seamless",
+      "uv-mapping"
+    ],
+    "domains": [
+      "graphics"
+    ],
+    "base": 23.1,
+    "score": 29.1,
+    "open_issues": 15,
+    "full_name": "songrun/SeamAwareDecimater",
+    "lang_mix": {
+      "C++": 0.9,
+      "CMake": 0.1
+    },
+    "core_lang_share": 0.9,
+    "files": 28,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 17,
+    "demand_issues": 1,
+    "demand_titles": [
+      "decimater.exe has stopped working "
+    ],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "hfiref0x/DSEFix",
+    "url": "https://github.com/hfiref0x/DSEFix",
+    "stars": 804,
+    "forks": 252,
+    "license": "BSD-2-Clause",
+    "pushed": "2018-12-04",
+    "archived": true,
+    "lang": "C",
+    "desc": "Windows x64 Driver Signature Enforcement Overrider",
+    "topics": [
+      "abandonware",
+      "driver",
+      "dse",
+      "loader"
+    ],
+    "domains": [
+      "crypto"
+    ],
+    "base": 28.6,
+    "score": 28.6,
+    "open_issues": 0,
+    "full_name": "hfiref0x/DSEFix",
+    "lang_mix": {
+      "C": 1.0,
+      "C++": 0.0,
+      "Objective-C": 0.0
+    },
+    "core_lang_share": 1.0,
+    "files": 44,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 35,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "jixiaozhong/RealSR",
+    "url": "https://github.com/jixiaozhong/RealSR",
+    "stars": 829,
+    "forks": 106,
+    "license": "Apache-2.0",
+    "pushed": "2020-09-02",
+    "archived": false,
+    "lang": "Python",
+    "desc": "Real-World Super-Resolution via Kernel Estimation and Noise Injection",
+    "topics": [
+      "kernel-estimation",
+      "noise-injection",
+      "super-resolution"
+    ],
+    "domains": [
+      "graphics"
+    ],
+    "base": 24.2,
+    "score": 28.2,
+    "open_issues": 27,
+    "full_name": "jixiaozhong/RealSR",
+    "lang_mix": {
+      "Python": 0.97,
+      "MATLAB": 0.03
+    },
+    "core_lang_share": 0.97,
+    "files": 57,
+    "bad_deps": [],
+    "has_tests": true,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 35,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "rspivak/slimit",
+    "url": "https://github.com/rspivak/slimit",
+    "stars": 546,
+    "forks": 89,
+    "license": "MIT",
+    "pushed": "2019-07-30",
+    "archived": false,
+    "lang": "Python",
+    "desc": "SlimIt -  a JavaScript minifier/parser in Python",
+    "topics": [],
+    "domains": [
+      "parser"
+    ],
+    "base": 23.5,
+    "score": 27.5,
+    "open_issues": 68,
+    "full_name": "rspivak/slimit",
+    "lang_mix": {
+      "Python": 1.0
+    },
+    "core_lang_share": 1.0,
+    "files": 44,
+    "bad_deps": [],
+    "has_tests": true,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 25,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "Hangz-nju-cuhk/Talking-Face-Generation-DAVS",
+    "url": "https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS",
+    "stars": 812,
+    "forks": 170,
+    "license": "MIT",
+    "pushed": "2021-05-11",
+    "archived": false,
+    "lang": "Python",
+    "desc": "Code for Talking Face Generation by Adversarially Disentangled Audio-Visual Representation (AAAI 2019)",
+    "topics": [],
+    "domains": [
+      "dsp"
+    ],
+    "base": 25.3,
+    "score": 25.3,
+    "open_issues": 42,
+    "full_name": "Hangz-nju-cuhk/Talking-Face-Generation-DAVS",
+    "lang_mix": {
+      "Python": 0.86,
+      "MATLAB": 0.14
+    },
+    "core_lang_share": 0.86,
+    "files": 57,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 31,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "karanchawla/GPS_IMU_Kalman_Filter",
+    "url": "https://github.com/karanchawla/GPS_IMU_Kalman_Filter",
+    "stars": 652,
+    "forks": 164,
+    "license": "Apache-2.0",
+    "pushed": "2019-10-06",
+    "archived": false,
+    "lang": "C++",
+    "desc": "Fusing GPS, IMU and Encoder sensors for accurate state estimation.",
+    "topics": [
+      "autonomous-agents",
+      "autonomous-vehicles",
+      "ekf-localization",
+      "gps-ins",
+      "kalman-filter",
+      "state-estimation"
+    ],
+    "domains": [
+      "dsp"
+    ],
+    "base": 25.0,
+    "score": 25.0,
+    "open_issues": 9,
+    "full_name": "karanchawla/GPS_IMU_Kalman_Filter",
+    "lang_mix": {
+      "C++": 0.98,
+      "C": 0.01,
+      "CMake": 0.0
+    },
+    "core_lang_share": 1.0,
+    "files": 346,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 266,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "dpwe/audfprint",
+    "url": "https://github.com/dpwe/audfprint",
+    "stars": 616,
+    "forks": 135,
+    "license": "MIT",
+    "pushed": "2019-09-24",
+    "archived": false,
+    "lang": "Python",
+    "desc": "Landmark-based audio fingerprinting",
+    "topics": [],
+    "domains": [
+      "dsp"
+    ],
+    "base": 24.4,
+    "score": 24.4,
+    "open_issues": 42,
+    "full_name": "dpwe/audfprint",
+    "lang_mix": {
+      "Python": 0.96,
+      "Makefile": 0.04
+    },
+    "core_lang_share": 0.96,
+    "files": 36,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 13,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "RossHartley/invariant-ekf",
+    "url": "https://github.com/RossHartley/invariant-ekf",
+    "stars": 570,
+    "forks": 126,
+    "license": "BSD-3-Clause",
+    "pushed": "2019-08-17",
+    "archived": false,
+    "lang": "C++",
+    "desc": "C++ library to implement invariant extended Kalman filtering for aided inertial navigation.  ",
+    "topics": [],
+    "domains": [
+      "dsp"
+    ],
+    "base": 24.2,
+    "score": 24.2,
+    "open_issues": 10,
+    "full_name": "RossHartley/invariant-ekf",
+    "lang_mix": {
+      "C++": 0.55,
+      "MATLAB": 0.41,
+      "CMake": 0.04
+    },
+    "core_lang_share": 0.55,
+    "files": 58,
+    "bad_deps": [],
+    "has_tests": true,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 12,
+    "demand_issues": 1,
+    "demand_titles": [
+      "matlab /examples_matlab"
+    ],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "cisco/thor",
+    "url": "https://github.com/cisco/thor",
+    "stars": 701,
+    "forks": 103,
+    "license": "BSD-2-Clause",
+    "pushed": "2018-08-08",
+    "archived": false,
+    "lang": "C",
+    "desc": "Thor Video Codec",
+    "topics": [],
+    "domains": [
+      "compression"
+    ],
+    "base": 24.0,
+    "score": 24.0,
+    "open_issues": 20,
+    "full_name": "cisco/thor",
+    "lang_mix": {
+      "C": 0.91,
+      "C++": 0.07,
+      "Objective-C": 0.01,
+      "Shell": 0.0
+    },
+    "core_lang_share": 0.98,
+    "files": 117,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 80,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "brandonpelfrey/Fast-BVH",
+    "url": "https://github.com/brandonpelfrey/Fast-BVH",
+    "stars": 542,
+    "forks": 75,
+    "license": "MIT",
+    "pushed": "2020-04-07",
+    "archived": false,
+    "lang": "C++",
+    "desc": "A Simple, Optimized Bounding Volume Hierarchy for Ray/Object Intersection Testing",
+    "topics": [],
+    "domains": [
+      "geometry"
+    ],
+    "base": 23.3,
+    "score": 23.3,
+    "open_issues": 7,
+    "full_name": "brandonpelfrey/Fast-BVH",
+    "lang_mix": {
+      "C++": 0.9,
+      "CMake": 0.06,
+      "Makefile": 0.02,
+      "C": 0.01
+    },
+    "core_lang_share": 0.92,
+    "files": 38,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 25,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "Uncodin/bypass",
+    "url": "https://github.com/Uncodin/bypass",
+    "stars": 1530,
+    "forks": 191,
+    "license": "Apache-2.0",
+    "pushed": "2018-04-04",
+    "archived": false,
+    "lang": "C",
+    "desc": "Skip the HTML, Bypass takes markdown and renders it directly on Android and iOS.",
+    "topics": [],
+    "domains": [
+      "parser"
+    ],
+    "base": 14.7,
+    "score": 22.7,
+    "open_issues": 66,
+    "full_name": "Uncodin/bypass",
+    "lang_mix": {
+      "C": 0.43,
+      "Objective-C": 0.21,
+      "C++": 0.21,
+      "Java": 0.07
+    },
+    "core_lang_share": 0.64,
+    "files": 148,
+    "bad_deps": [
+      "android",
+      "ios "
+    ],
+    "has_tests": true,
+    "has_build": true,
+    "has_license_file": true,
+    "src_files": 40,
+    "demand_issues": 3,
+    "demand_titles": [
+      "Submit bypassed number",
+      "Submit bypassed number",
+      "Submit bypassed number"
+    ],
+    "demand_unanswered": 2
+  },
+  {
+    "repo": "AndreyGuzhov/AudioCLIP",
+    "url": "https://github.com/AndreyGuzhov/AudioCLIP",
+    "stars": 874,
+    "forks": 104,
+    "license": "MIT",
+    "pushed": "2021-09-30",
+    "archived": false,
+    "lang": "Python",
+    "desc": "Source code for models described in the paper \"AudioCLIP: Extending CLIP to Image, Text and Audio\" (https://arxiv.org/abs/2106.13043)",
+    "topics": [],
+    "domains": [
+      "dsp"
+    ],
+    "base": 20.3,
+    "score": 20.3,
+    "open_issues": 3,
+    "full_name": "AndreyGuzhov/AudioCLIP",
+    "lang_mix": {
+      "Python": 1.0
+    },
+    "core_lang_share": 1.0,
+    "files": 54,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 22,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "AustinBrunkhorst/CPP-Reflection",
+    "url": "https://github.com/AustinBrunkhorst/CPP-Reflection",
+    "stars": 705,
+    "forks": 103,
+    "license": "MIT",
+    "pushed": "2019-10-28",
+    "archived": false,
+    "lang": "C++",
+    "desc": "C++ Reflection Parser / Runtime Skeleton",
+    "topics": [
+      "automation",
+      "build",
+      "c-plus-plus",
+      "cmake",
+      "libclang",
+      "meta",
+      "reflection"
+    ],
+    "domains": [
+      "parser"
+    ],
+    "base": 20.0,
+    "score": 20.0,
+    "open_issues": 1,
+    "full_name": "AustinBrunkhorst/CPP-Reflection",
+    "lang_mix": {
+      "C++": 0.94,
+      "CMake": 0.03,
+      "HTML": 0.03,
+      "C": 0.0
+    },
+    "core_lang_share": 0.94,
+    "files": 196,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 177,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "secretsquirrel/SigThief",
+    "url": "https://github.com/secretsquirrel/SigThief",
+    "stars": 2419,
+    "forks": 477,
+    "license": "BSD-3-Clause",
+    "pushed": "2021-08-11",
+    "archived": false,
+    "lang": "Python",
+    "desc": "Stealing Signatures and Making One Invalid Signature at a Time",
+    "topics": [
+      "certificates",
+      "pe",
+      "python",
+      "python3",
+      "testing-antivirus"
+    ],
+    "domains": [
+      "crypto"
+    ],
+    "base": 28.7,
+    "score": 18.7,
+    "open_issues": 0,
+    "full_name": "secretsquirrel/SigThief",
+    "lang_mix": {
+      "Python": 1.0
+    },
+    "core_lang_share": 1.0,
+    "files": 4,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 1,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "an0/Letterpress",
+    "url": "https://github.com/an0/Letterpress",
+    "stars": 673,
+    "forks": 55,
+    "license": "BSD-3-Clause",
+    "pushed": "2020-11-29",
+    "archived": false,
+    "lang": "Python",
+    "desc": "A minimal, Markdown based blogging system written in Python.",
+    "topics": [],
+    "domains": [
+      "parser"
+    ],
+    "base": 19.2,
+    "score": 13.2,
+    "open_issues": 0,
+    "full_name": "an0/Letterpress",
+    "lang_mix": {
+      "Python": 0.56,
+      "HTML": 0.21,
+      "Perl": 0.12,
+      "PHP": 0.08
+    },
+    "core_lang_share": 0.56,
+    "files": 479,
+    "bad_deps": [],
+    "has_tests": true,
+    "has_build": true,
+    "has_license_file": true,
+    "src_files": 18,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "stsievert/swix",
+    "url": "https://github.com/stsievert/swix",
+    "stars": 586,
+    "forks": 51,
+    "license": "MIT",
+    "pushed": "2020-05-19",
+    "archived": true,
+    "lang": "C++",
+    "desc": "Swift Matrix  Library",
+    "topics": [
+      "linear-algebra",
+      "math",
+      "swift"
+    ],
+    "domains": [
+      "math"
+    ],
+    "base": 23.0,
+    "score": 13.0,
+    "open_issues": 8,
+    "full_name": "stsievert/swix",
+    "lang_mix": {
+      "C++": 0.84,
+      "C": 0.09,
+      "Swift": 0.05,
+      "Objective-C": 0.01
+    },
+    "core_lang_share": 0.93,
+    "files": 332,
+    "bad_deps": [
+      "cuda",
+      "ios ",
+      "opengl"
+    ],
+    "has_tests": true,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 223,
+    "demand_issues": 1,
+    "demand_titles": [
+      "Add Swix to the Swift Source Compatibility test suite"
+    ],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "ecthros/uncaptcha",
+    "url": "https://github.com/ecthros/uncaptcha",
+    "stars": 2806,
+    "forks": 323,
+    "license": "MIT",
+    "pushed": "2018-01-27",
+    "archived": false,
+    "lang": "Python",
+    "desc": "Defeating Google's audio reCaptcha with 85% accuracy. ",
+    "topics": [],
+    "domains": [
+      "dsp"
+    ],
+    "base": 12.7,
+    "score": 12.7,
+    "open_issues": 0,
+    "full_name": "ecthros/uncaptcha",
+    "lang_mix": {
+      "Python": 1.0
+    },
+    "core_lang_share": 1.0,
+    "files": 12,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": false,
+    "has_license_file": false,
+    "src_files": 5,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "erincatto/box2d-lite",
+    "url": "https://github.com/erincatto/box2d-lite",
+    "stars": 1078,
+    "forks": 140,
+    "license": "MIT",
+    "pushed": "2020-01-10",
+    "archived": false,
+    "lang": "C++",
+    "desc": "A small 2D physics engine",
+    "topics": [],
+    "domains": [
+      "physics"
+    ],
+    "base": 25.2,
+    "score": 11.2,
+    "open_issues": 5,
+    "full_name": "erincatto/box2d-lite",
+    "lang_mix": {
+      "C++": 0.9,
+      "C": 0.06,
+      "CMake": 0.03,
+      "Batchfile": 0.01
+    },
+    "core_lang_share": 0.96,
+    "files": 103,
+    "bad_deps": [
+      "cocoa",
+      "win32",
+      "x11"
+    ],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 81,
+    "demand_issues": 1,
+    "demand_titles": [
+      "Question on order of bodies in arbiter code"
+    ],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "skadro-official/skCrypter",
+    "url": "https://github.com/skadro-official/skCrypter",
+    "stars": 845,
+    "forks": 124,
+    "license": "MIT",
+    "pushed": "2021-06-03",
+    "archived": false,
+    "lang": "C++",
+    "desc": "Compile-time, Usermode + Kernelmode, safe and lightweight string crypter library for C++11+",
+    "topics": [],
+    "domains": [
+      "crypto"
+    ],
+    "base": 20.6,
+    "score": 10.6,
+    "open_issues": 3,
+    "full_name": "skadro-official/skCrypter",
+    "lang_mix": {
+      "C++": 1.0
+    },
+    "core_lang_share": 1.0,
+    "files": 4,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": false,
+    "has_license_file": true,
+    "src_files": 2,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "glouw/gel",
+    "url": "https://github.com/glouw/gel",
+    "stars": 562,
+    "forks": 24,
+    "license": "MIT",
+    "pushed": "2018-10-08",
+    "archived": false,
+    "lang": "C",
+    "desc": "An N64-like software renderer",
+    "topics": [
+      "n64",
+      "obj",
+      "renderer",
+      "software"
+    ],
+    "domains": [
+      "graphics"
+    ],
+    "base": 18.5,
+    "score": 8.5,
+    "open_issues": 3,
+    "full_name": "glouw/gel",
+    "lang_mix": {
+      "C": 0.98,
+      "Makefile": 0.02
+    },
+    "core_lang_share": 0.98,
+    "files": 7,
+    "bad_deps": [],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 1,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "heremaps/pptk",
+    "url": "https://github.com/heremaps/pptk",
+    "stars": 635,
+    "forks": 112,
+    "license": "MIT",
+    "pushed": "2020-09-17",
+    "archived": false,
+    "lang": "C++",
+    "desc": "The Point Processing Toolkit (pptk) is a Python package for visualizing and processing 2-d/3-d point clouds.",
+    "topics": [
+      "3-d",
+      "gps-data",
+      "graphics-3d",
+      "kd-tree",
+      "lidar",
+      "octree",
+      "pointclouds",
+      "visualization"
+    ],
+    "domains": [
+      "geometry"
+    ],
+    "base": 22.1,
+    "score": 8.1,
+    "open_issues": 59,
+    "full_name": "heremaps/pptk",
+    "lang_mix": {
+      "C++": 0.76,
+      "Python": 0.2,
+      "CMake": 0.04,
+      "C": 0.0
+    },
+    "core_lang_share": 0.96,
+    "files": 129,
+    "bad_deps": [
+      "opengl",
+      "qt"
+    ],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": true,
+    "src_files": 48,
+    "demand_issues": 1,
+    "demand_titles": [
+      "Connecting to Existing Viewer"
+    ],
+    "demand_unanswered": 0
+  },
+  {
+    "repo": "fengyang95/pyCFTrackers",
+    "url": "https://github.com/fengyang95/pyCFTrackers",
+    "stars": 575,
+    "forks": 114,
+    "license": "MIT",
+    "pushed": "2019-05-20",
+    "archived": false,
+    "lang": "Python",
+    "desc": "Python re-implementation of some correlation filter based tracker",
+    "topics": [
+      "bacf",
+      "color-names",
+      "correlation-filters",
+      "csk",
+      "csrdcf",
+      "dat",
+      "dcf",
+      "dsst",
+      "kcf",
+      "ldes",
+      "mcct",
+      "mosse",
+      "otb",
+      "pysot",
+      "samf",
+      "staple",
+      "staple-ca",
+      "visual-tracking"
+    ],
+    "domains": [
+      "dsp"
+    ],
+    "base": 18.0,
+    "score": 8.0,
+    "open_issues": 12,
+    "full_name": "fengyang95/pyCFTrackers",
+    "lang_mix": {
+      "Python": 0.89,
+      "C": 0.05,
+      "C++": 0.05,
+      "Makefile": 0.0
+    },
+    "core_lang_share": 1.0,
+    "files": 145,
+    "bad_deps": [
+      "cuda"
+    ],
+    "has_tests": false,
+    "has_build": true,
+    "has_license_file": false,
+    "src_files": 111,
+    "demand_issues": 0,
+    "demand_titles": [],
+    "demand_unanswered": 0
+  }
+]
